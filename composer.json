@@ -1,5 +1,5 @@
 {
-  "name": "chapagain/googletagmanager2",
+  "name": "knase/googletagmanager2",
   "description": "Google Tag Manager module for Magento 2",
   "type": "magento2-module",
   "version": "1.0.1",
@@ -17,5 +17,6 @@
     "psr-4": {
       "Chapagain\\GoogleTagManager\\": ""
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
